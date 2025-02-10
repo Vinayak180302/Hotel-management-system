@@ -52,3 +52,30 @@ The system ensures smooth hotel operations with a user-friendly graphical interf
 - Install **Java JDK** (Java Development Kit)
 - Install **Apache NetBeans IDE**
 - Install **MySQL Server & MySQL Workbench**
+
+## 🖼 Screenshots
+
+### 🔹 Login Page
+![Login Page](screenshots/MainFrame.png)
+
+### 🔹 Dashboard
+![Dashboard](screenshots/Dashboard.png)
+
+### 🔹 Add Employee
+![New Employee](screenshots/AddEmployee.png)
+
+### 🔹 Add Driver
+![Driver](screenshots/AddDriver.png)
+
+### 🔹 Add New Costumer
+![New Costumer](screenshots/AddNewCostumer.png)
+
+### 🔹 Add Room
+![Room](screenshots/AddRoom.png)
+
+### 🔹 Update Room Status
+![Room Status](screenshots/UpdateStatus.png)
+
+### 🔹 Checkout
+![Checkout](screenshots/Checkout.png)
+
