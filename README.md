@@ -53,6 +53,24 @@ The system ensures smooth hotel operations with a user-friendly graphical interf
 - Install **Apache NetBeans IDE**
 - Install **MySQL Server & MySQL Workbench**
 
+### 🛠 Steps to Run the Project
+1. **Clone the Repository**
+   ```sh
+   git clone https://github.com/Vinayak180302/Hotel-management-system.git
+   ```
+2. **Open in Apache NetBeans**
+   - Open **NetBeans IDE** and go to **File > Open Project**
+   - Select the cloned project folder
+
+3. **Set Up Database**
+   - Open **MySQL Workbench** and create a database
+   - Import the provided SQL file (`Hotel.sql` )
+   - Update the database connection settings in the Java code
+
+4. **Run the Project**
+   - In NetBeans, select the main file and click **Run**
+   - Login using the default credentials.
+
 ## 🖼 Screenshots
 
 ### 🔹 Login Page
